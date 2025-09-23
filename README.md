@@ -1,2 +1,2 @@
 # Python-Testing
-This is to test python codes
+This repository consists of few sample Python codes to practice.
