@@ -1,0 +1,4 @@
+Service,Status
+HDFS,Running
+Hive,Running
+Impala,Stopped
