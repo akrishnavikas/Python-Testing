@@ -9,3 +9,9 @@ print(len(logs_data))
 error = [line for line in logs_data if "ERROR" in line]
 
 print(len(error))
+
+def print_five_lines():
+    for line in logs_data[:5]:
+        print(line)
+
+print_five_lines()
